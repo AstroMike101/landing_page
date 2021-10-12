@@ -1,0 +1,75 @@
+
+.firstsection  { 
+    background-color: #1F2937;
+    height: 47vh
+}
+
+
+
+.header {
+    display:flex; 
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.headerLinks { 
+ color: white;
+}
+
+.OdinCoin { 
+    font-size: 40px;
+    color: white;
+    position: relative;
+    bottom: 4vh;
+    left: 10vw;
+    
+}
+
+.subtext { 
+    color: white;
+    text-align: left;
+    width: 15vw;
+    bottom: 9vh;
+    position:relative;
+    left: 10vw;
+}
+
+.signUpBtn  { 
+    color: white;
+    background-color: lightblue;
+    border-radius: 5em;
+    font-size: 15px;
+    padding: 10px 25px;
+    cursor:pointer;
+    position: relative;
+    bottom:7.5vh;
+    left: 12vw;
+}
+
+.btnAnchor { 
+    cursor: pointer;
+}
+
+.randomInformation { 
+    text-align: center;
+    color:#1F2937;
+    font-size: 36px;
+    height: 30vh;
+    
+}
+
+
+
+.quoteDiv { 
+background-color: #E5E7EB;
+height: 30vh;
+}
+
+
+
+.callToAction {
+    width: 15vh;
+    color:white;
+    height: 15vh;
+}
+
