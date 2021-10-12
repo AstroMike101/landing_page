@@ -1,0 +1,39 @@
+
+.firstsection  { 
+    background-color: #1F2937;
+    height: 45vh
+}
+
+
+
+.header {
+    display:flex; 
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.OdinCoin { 
+    font-size: 40px;
+    color: white;
+    position: relative;
+    top: 2vh;
+    left: 5vw;
+    
+}
+
+.subtext { 
+    color: white;
+    text-align: left;
+    width: 15vw;;
+    position:relative;
+    left: 5.5vw;
+}
+
+.randomInformation { 
+    text-align: center;
+    color:#1F2937;
+    font-size: 36px;
+}
+
+
+
