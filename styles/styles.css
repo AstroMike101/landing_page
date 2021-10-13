@@ -1,7 +1,7 @@
 
 .firstsection  { 
     background-color: #1F2937;
-    height: 47vh
+    height: 60vh
 }
 
 
@@ -20,8 +20,9 @@
     font-size: 40px;
     color: white;
     position: relative;
-    bottom: 4vh;
-    left: 10vw;
+    bottom: 6vh;
+    left: 13.5vw;
+    letter-spacing: 10px;;
     
 }
 
@@ -29,9 +30,16 @@
     color: white;
     text-align: left;
     width: 15vw;
-    bottom: 9vh;
+    bottom: 11vh;
+
     position:relative;
-    left: 10vw;
+    left: 7vw;
+}
+
+.subTextandPicture { 
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .signUpBtn  { 
@@ -39,11 +47,19 @@
     background-color: lightblue;
     border-radius: 5em;
     font-size: 15px;
-    padding: 10px 25px;
+    padding: 10px 50px;
     cursor:pointer;
     position: relative;
-    bottom:7.5vh;
-    left: 12vw;
+    right: 20em;
+    top: 8em;
+    
+    
+}
+
+.picture1 { 
+    position:relative;
+    right: 10vh;
+    bottom: 18vh;
 }
 
 .btnAnchor { 
